@@ -1,0 +1,13 @@
+Test cases:
+
+1.Pdf test case: Yash Bari Resume.pdf(upload provided pdf file )
+Prompt: summarize the provided content
+
+2.Excel test case: List of Laboratory.xlsx(upload this ecxel file)
+Prompt: give me list of laboratries in table format
+
+3.Doc test case:  DSA Practice_assignment all units.docx(Upload provided file)
+Prompt: solve first 3 questions one by one with sample input data
+
+4.Csv test case: Team_medals.csv(upload provided csv file)
+Prompt: from provided data visulize first 10 entries data teams vs gold medal data into bar graph
