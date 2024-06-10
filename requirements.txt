@@ -4,6 +4,5 @@ openpyxl
 pandas
 python-docx
 google-generativeai
-subprocess
 matplotlib
 dotenv
